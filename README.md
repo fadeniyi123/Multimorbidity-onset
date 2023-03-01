@@ -1,0 +1,4 @@
+# Multimorbidity-onset
+This work assessed the incidence and age at diagnosis of 31 long-term conditions and their multimorbidity by sex and social class among secondary healthcare seekers in a Scottish populationtwo Scottish districts
+
+A better under standing of when individuals develop individual conditions and subsequently become become multimorbid would provide evidence to support betterEfficient prevention, detection and management of health conditions as well as the reduction of their burdens requires an understanding of the incidence and age at the onset of the conditions and multimorbidity among themlong term conditions. The study aimed to assess the median age at the onset, incidence, and prevalence of 31 long-term conditions and multimorbidity in the population of Fife and Tayside, Scotland by age, sex and deprivationsocioeconomic status.
